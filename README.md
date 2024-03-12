@@ -10,3 +10,5 @@ To start the app, run:
 yarn install
 yarn dev
 ```
+
+codecentric 2024®
